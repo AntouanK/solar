@@ -1,10 +1,20 @@
 h3 {
   color: #FF4000;
 }
-
 table {
-  background-color: purple;
-  padding: 30px;
-  margin: 30px;
-  font-family: monospace;
+  width: 300px;
+  padding: 25px;
+  border: 25px solid navy;
+  margin: 25px;
+}
+img {
+  height: 300px;
+}
+p {
+  color: #fff;
+  font-size: 48px;
+  font-family: 'Shift', sans-serif;
+  font-weight: bold;
+  background-image:url('http://goo.gl/04j7Nn');
+  height: 500px;
 }
